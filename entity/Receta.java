@@ -18,7 +18,7 @@ public class Receta {
         return tiempoCoccion;
     }
 
-    public List<Ingrediente> getIngredientes() {
+    public long[] getIngredientes() {
         return ingredientes;
     }
 
